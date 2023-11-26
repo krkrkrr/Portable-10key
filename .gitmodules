@@ -1,0 +1,9 @@
+[submodule "KiCad/libraries/components/packages3D/kicad-packages3D-v6"]
+	path = KiCad/libraries/components/packages3D/kicad-packages3D-v6
+	url = https://gitlab.com/kicad/libraries/kicad-packages3D.git
+[submodule "KiCad/libraries/components/footprints/kicad-footprints-v6"]
+	path = KiCad/libraries/components/footprints/kicad-footprints-v6
+	url = https://gitlab.com/kicad/libraries/kicad-footprints.git
+[submodule "KiCad/libraries/components/symbols/kicad-symbols-v6"]
+	path = KiCad/libraries/components/symbols/kicad-symbols-v6
+	url = https://gitlab.com/kicad/libraries/kicad-symbols.git
